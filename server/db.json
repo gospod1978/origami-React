@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "content": "Officia commodo proident amet Lorem sunt in nulla tempor non pariatur dolore voluptate dolore. Sint aute sint anim ea anim nulla cillum veniam aliquip laboris et voluptate. Tempor labore nulla Lorem ad do velit sint ullamco.",
+          "author": "Pesho"
+        },
+        {
+          "id": 2,
+          "content": "Duis sint consequat fugiat fugiat adipisicing nostrud quis in mollit laborum dolore.",
+          "author": "Gosho"
+        }
+      ]
+}
