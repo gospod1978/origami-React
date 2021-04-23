@@ -20,32 +20,7 @@
 
 /* Link Styles */
 
-footer .listItem a {
-    color: #234465;
-    text-decoration: none;
-}
 
-footer .listItem:nth-child(1) {
-    margin-left: 1%;
-}
-
-footer .listItem:hover {
-    border-bottom: none;
-    border-top: 2px solid #234465;
-    font-weight: bold;
-}
-
-
-
-
-
-
-
-footer .listItem:not(:last-child) {
-    padding: 2%;
-    margin-top: 1.5%;
-    border-bottom: 2px solid #234465;
-}
 
 /* Link Styles */
 
@@ -82,11 +57,7 @@ h1 {
 
 /* Posts Styles */
 
-.Posts {
-    width: 100%;
-    /* border:1px solid red; */
-    height: 45vh;
-}
+
 
 /* Posts Styles */
 
@@ -94,63 +65,13 @@ h1 {
 
 /* Post Styles */
 
-.Post {
-    width: 100%;
-    height: auto;
-    border: 1px solid #234465;
-    margin-bottom: 3%;
-    border-radius: 4px;
-}
 
-.description {
-    word-wrap: break-word;
-    padding: 0.5%;
-    font-style: italic;
-    /* border:1px solid blue; */
-    margin-bottom: 0.5%;
-    width: 95%;
-    display: inline-block;
-    vertical-align: top;
-    ;
-}
-
-.Post div {
-    /* border:1px solid red; */
-    height: auto;
-    text-align: right;
-    margin-bottom: 0.5%;
-}
-
-.Post div span {
-    text-decoration: underline;
-    text-align: right;
-    /* border:1px solid green; */
-    padding-right: 1%;
-}
-
-.Post img {
-    width: 32px;
-    height: 32px;
-}
 
 /* Post Styles */
 
 
 /* Footer Styles */
 
-.Footer {
-    width: 100%;
-    height: 18vh;
-    background-color: #ffa000;
-    color: #234465;
-    border-top: 2px solid #234465;
-    border-bottom: 2px solid #234465;
-    margin-bottom: 1%;
-}
 
-.Footer p {
-    text-align: center;
-    font-weight: bold;;
-}
 
 /* Footer Styles */
